@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17px" height="16px" viewBox="0 0 17 16" version="1.1">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 27</title>
+    <desc>Created with Sketch.</desc>
+    <defs/>
+    <g id="定稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="收银台" transform="translate(-1466.000000, -260.000000)">
+            <g id="Group-27" transform="translate(1466.000000, 260.000000)">
+                <polygon id="Star-2" stroke="#D9B879" stroke-linecap="round" stroke-linejoin="round" points="12.4256592 13.6120605 9.95352322 14.9066993 10.4256592 12.1646104 8.42565918 10.2226522 11.1895912 9.82258686 12.4256592 7.32775195 13.6617272 9.82258686 16.4256592 10.2226522 14.4256592 12.1646104 14.8977951 14.9066993"/>
+                <g id="Group-10" fill="#D9B879" fill-rule="nonzero">
+                    <path d="M1,14 L1,1 L12,1 L12,6 L13,6 L13,0.666666667 C13,0.298476833 12.7172325,0 12.3684211,0 L0.631578947,0 C0.282767526,0 0,0.298476833 0,0.666666667 L0,14.3333333 C0,14.7015232 0.282767526,15 0.631578947,15 L8,15 L8,14 L1,14 Z" id="Rectangle-9"/>
+                </g>
+                <path d="M3.5,5 C3.22385763,5 3,4.77614237 3,4.5 C3,4.22385763 3.22385763,4 3.5,4 L9.5,4 C9.77614237,4 10,4.22385763 10,4.5 C10,4.77614237 9.77614237,5 9.5,5 L3.5,5 Z" id="Line-3" fill="#D9B879" fill-rule="nonzero"/>
+                <path d="M3.5,8 C3.22385763,8 3,7.77614237 3,7.5 C3,7.22385763 3.22385763,7 3.5,7 L6.5,7 C6.77614237,7 7,7.22385763 7,7.5 C7,7.77614237 6.77614237,8 6.5,8 L3.5,8 Z" id="Line-3-Copy" fill="#D9B879" fill-rule="nonzero"/>
+            </g>
+        </g>
+    </g>
+</svg>

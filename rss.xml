@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[青灯有味]]></title><description><![CDATA[一款简洁易懂算法博客 & 文档抠细节 & 主题]]></description><link>https://zscnb.gitee.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 30 May 2021 05:57:45 GMT</lastBuildDate><atom:link href="https://zscnb.gitee.io/rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[Mr.Zhao 2019]]></copyright><language><![CDATA[en]]></language><item><title><![CDATA[Vue性能优化九法]]></title><link>https://zscnb.gitee.io/views/blog/Vue_performance_optimization.html</link><guid isPermaLink="true">https://zscnb.gitee.io/views/blog/Vue_performance_optimization.html</guid><dc:creator><![CDATA[Mr.Zhao]]></dc:creator><pubDate>Thu, 11 Feb 2021 23:30:56 GMT</pubDate></item><item><title><![CDATA[2021年为什么是牛年？]]></title><description><![CDATA[<div class="custom-block tip">
+<p>以下表格，推荐一下干支纪年法的算法，望受用</p>
+</div>
+]]></description><link>https://zscnb.gitee.io/views/essay/Ganzhi_%20chronology.html</link><guid isPermaLink="true">https://zscnb.gitee.io/views/essay/Ganzhi_%20chronology.html</guid><category><![CDATA[杂集]]></category><dc:creator><![CDATA[Mr.Zhao]]></dc:creator><pubDate>Thu, 04 Feb 2021 22:16:17 GMT</pubDate></item><item><title><![CDATA[Webpack核心功能]]></title><link>https://zscnb.gitee.io/views/blog/webpack-core.html</link><guid isPermaLink="true">https://zscnb.gitee.io/views/blog/webpack-core.html</guid><dc:creator><![CDATA[Mr.Zhao]]></dc:creator><pubDate>Tue, 15 Dec 2020 10:30:00 GMT</pubDate></item><item><title><![CDATA[CSS工程化]]></title><link>https://zscnb.gitee.io/views/blog/webpack-css-ngineering.html</link><guid isPermaLink="true">https://zscnb.gitee.io/views/blog/webpack-css-ngineering.html</guid><dc:creator><![CDATA[Mr.Zhao]]></dc:creator><pubDate>Tue, 15 Dec 2020 10:30:00 GMT</pubDate></item><item><title><![CDATA[性能优化]]></title><link>https://zscnb.gitee.io/views/blog/webpack-performance-optimization.html</link><guid isPermaLink="true">https://zscnb.gitee.io/views/blog/webpack-performance-optimization.html</guid><dc:creator><![CDATA[Mr.Zhao]]></dc:creator><pubDate>Tue, 15 Dec 2020 10:30:00 GMT</pubDate></item><item><title><![CDATA[常用扩展]]></title><link>https://zscnb.gitee.io/views/blog/webpack-common-extensions.html</link><guid isPermaLink="true">https://zscnb.gitee.io/views/blog/webpack-common-extensions.html</guid><dc:creator><![CDATA[Mr.Zhao]]></dc:creator><pubDate>Tue, 15 Dec 2020 10:30:00 GMT</pubDate></item><item><title><![CDATA[JS兼容性]]></title><link>https://zscnb.gitee.io/views/blog/webpack-js-compatibility.html</link><guid isPermaLink="true">https://zscnb.gitee.io/views/blog/webpack-js-compatibility.html</guid><dc:creator><![CDATA[Mr.Zhao]]></dc:creator><pubDate>Tue, 15 Dec 2020 10:30:00 GMT</pubDate></item><item><title><![CDATA[5 分钟上手 ECharts]]></title><link>https://zscnb.gitee.io/views/blog/echarts.html</link><guid isPermaLink="true">https://zscnb.gitee.io/views/blog/echarts.html</guid><dc:creator><![CDATA[Mr.Zhao]]></dc:creator><pubDate>Sun, 29 Nov 2020 13:39:00 GMT</pubDate></item><item><title><![CDATA[前端页面优化]]></title><link>https://zscnb.gitee.io/views/blog/Front-end-optimization.html</link><guid isPermaLink="true">https://zscnb.gitee.io/views/blog/Front-end-optimization.html</guid><dc:creator><![CDATA[Mr.Zhao]]></dc:creator><pubDate>Sat, 25 Apr 2020 23:14:56 GMT</pubDate></item><item><title><![CDATA[Vuex]]></title><link>https://zscnb.gitee.io/views/blog/vuex.html</link><guid isPermaLink="true">https://zscnb.gitee.io/views/blog/vuex.html</guid><dc:creator><![CDATA[Mr.Zhao]]></dc:creator><pubDate>Sat, 25 Apr 2020 23:14:56 GMT</pubDate></item><item><title><![CDATA[牙疼不是病，疼起来真要命!]]></title><description><![CDATA[<h2 id="缓解牙疼的9种方法"><a class="header-anchor" href="#缓解牙疼的9种方法">#</a> 缓解牙疼的9种方法</h2>
+<p>我们每天都需要吃食物，所以我们要保护好自己的牙齿。牙疼是一种疾病，我们难免会碰到。牙疼常常能把人折腾得寝食难安，坐卧不宁。牙疼时除了要及时看牙医之外，一些小技巧也有助于缓解疼痛。这里有“赶走牙疼的简单9招”，不妨一试。</p>
+<p><img src="./img/1.jpg" alt=""></p>
+]]></description><link>https://zscnb.gitee.io/views/essay/toothache.html</link><guid isPermaLink="true">https://zscnb.gitee.io/views/essay/toothache.html</guid><category><![CDATA[杂集]]></category><dc:creator><![CDATA[Mr.Zhao]]></dc:creator><pubDate>Fri, 10 Apr 2020 09:48:45 GMT</pubDate></item><item><title><![CDATA[致敬英雄]]></title><description><![CDATA[<p>朋友圈被一群可爱的人刷屏了</p>
+<p>哪有什么岁月静好</p>
+<p>只是有人为我们负重前行</p>
+<p>帮我们挡风遮雨</p>
+<p>同样的阳光明媚</p>
+<p>同样的美好年华</p>
+<p>没来得及给世界好好道别</p>
+<p>就一声不吭的离开我们</p>
+]]></description><link>https://zscnb.gitee.io/views/essay/salute.html</link><guid isPermaLink="true">https://zscnb.gitee.io/views/essay/salute.html</guid><category><![CDATA[杂集]]></category><dc:creator><![CDATA[瑾瑜渊]]></dc:creator><pubDate>Sat, 04 Apr 2020 11:31:35 GMT</pubDate></item><item><title><![CDATA[学习vue常用知识点]]></title><description><![CDATA[ <clock2/>
+]]></description><link>https://zscnb.gitee.io/views/blog/vuestudy.html</link><guid isPermaLink="true">https://zscnb.gitee.io/views/blog/vuestudy.html</guid><dc:creator><![CDATA[Mr.Zhao]]></dc:creator><pubDate>Mon, 30 Mar 2020 23:54:56 GMT</pubDate></item><item><title><![CDATA[新手不得不会提交代码(PR)]]></title><description><![CDATA[<p>github、gitee越来越为大家所熟悉。如果发现了某个项目的BUG，也发扬一下开源精神，将修正后的代码提交给原作者。那么，本文讲得就是如何将修改后的代码向github/gitee提交。</p>
+<div class="custom-block tip">
+<p>总的流程如下：</p>
+<ol>
+<li>
+<p>先 <kbd>Fork</kbd> 对应的项目，相当于拷贝一份到自己的github账户下</p>
+</li>
+<li>
+<p>然后再<kbd>clone</kbd> 到本地分支，对bug做相应的修改</p>
+</li>
+</ol>
+<p>3.发起<kbd>pull request</kbd> 给原作者，让他看到，并决定是否接受你的修改</p>
+<ol start="4">
+<li>
+<p>原作者同意接受这个bug，就会 merge 到他自己的项目中</p>
+</li>
+<li>
+<p>提交流程结束了</p>
+</li>
+</ol>
+</div>
+]]></description><link>https://zscnb.gitee.io/views/pull-request.html</link><guid isPermaLink="true">https://zscnb.gitee.io/views/pull-request.html</guid><category><![CDATA[blog]]></category><dc:creator><![CDATA[Mr.Zhao]]></dc:creator><pubDate>Thu, 26 Mar 2020 14:27:56 GMT</pubDate></item><item><title><![CDATA[A Little demo]]></title><link>https://zscnb.gitee.io/views/demo/</link><guid isPermaLink="true">https://zscnb.gitee.io/views/demo/</guid><dc:creator><![CDATA[Mr.Zhao]]></dc:creator><pubDate>Thu, 19 Mar 2020 14:53:43 GMT</pubDate></item><item><title><![CDATA[源码解析前端两大框架]]></title><link>https://zscnb.gitee.io/views/blog/Source-code.html</link><guid isPermaLink="true">https://zscnb.gitee.io/views/blog/Source-code.html</guid><dc:creator><![CDATA[Mr.Zhao]]></dc:creator><pubDate>Wed, 18 Mar 2020 16:17:56 GMT</pubDate></item><item><title><![CDATA[生活的味道]]></title><description><![CDATA[<p>从出生起，我们就注定不可抗拒地卷入了一个大大的茫然，茫然的时间，茫然的空间，还有许许多多茫茫然的琐碎事。这就是生活，也可以说是出生到死忙间的一段或漫长或短暂的时空。</p>
+]]></description><link>https://zscnb.gitee.io/views/essay/taste.html</link><guid isPermaLink="true">https://zscnb.gitee.io/views/essay/taste.html</guid><category><![CDATA[杂集]]></category><dc:creator><![CDATA[Mr.Zhao]]></dc:creator><pubDate>Mon, 16 Mar 2020 22:16:17 GMT</pubDate></item><item><title><![CDATA[男多女少，未来中国会变成强奸大国吗？]]></title><description><![CDATA[<div class="custom-block tip">
+<p>结合自身经历，洽谈男女比例失调，是人性的瞑灭，还是道德的沦丧？</p>
+</div>
+<p>男女比例，自古以来就是兵家必谈话题。赢者美女如云，输者孤独一生！！！！</p>
+]]></description><link>https://zscnb.gitee.io/views/essay/maleMany.html</link><guid isPermaLink="true">https://zscnb.gitee.io/views/essay/maleMany.html</guid><category><![CDATA[杂集]]></category><dc:creator><![CDATA[Mr.Zhao]]></dc:creator><pubDate>Mon, 16 Mar 2020 22:16:17 GMT</pubDate></item><item><title><![CDATA[求之不得，皆因命之所至也]]></title><description><![CDATA[<p>本文讲述博主生平经历和遭遇，容我一一道来！</p>
+]]></description><link>https://zscnb.gitee.io/views/essay/failToGet.html</link><guid isPermaLink="true">https://zscnb.gitee.io/views/essay/failToGet.html</guid><category><![CDATA[杂集]]></category><dc:creator><![CDATA[Mr.Zhao]]></dc:creator><pubDate>Sat, 14 Mar 2020 14:24:56 GMT</pubDate></item><item><title><![CDATA[如许相诺，谁念]]></title><description><![CDATA[<p>只如初见，顾惜邂逅情缘。那一瞥，是惊鸿素颜。半点轻砂，万种娇妍。卿若不负，浮华一世夜无眠。琵琶语，古道幽情，莫道黯然魂。青陌巷，与君辞别。</p>
+]]></description><link>https://zscnb.gitee.io/views/essay/whoIs.html</link><guid isPermaLink="true">https://zscnb.gitee.io/views/essay/whoIs.html</guid><category><![CDATA[杂集]]></category><dc:creator><![CDATA[温元祎]]></dc:creator><pubDate>Fri, 13 Mar 2020 22:15:54 GMT</pubDate></item></channel></rss>
